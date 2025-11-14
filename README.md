@@ -28,12 +28,12 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **Procedure**
 
-/* write all the steps invloved */
 
 **PROGRAM**
 
 
 Developed by: MADHUMITHA R R
+
 RegisterNumber: 212224240083
 ```
 module EXP_11_COUNTER_UP(out,clk,rstn);
@@ -53,7 +53,8 @@ endmodule
 <img width="1410" height="516" alt="image" src="https://github.com/user-attachments/assets/5aa21a90-e0b3-40a9-ae08-63ac629379df" />
 
 **TIMING DIAGRAM FOR IP COUNTER**
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/776cc244-5bcf-4b23-a1b8-465f3e9d08f8" />
 
-**TRUTH TABLE**
 
 **RESULTS**
+Implemented a 4 bit synchronous up counter and validated functionality.
