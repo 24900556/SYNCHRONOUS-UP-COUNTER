@@ -28,6 +28,11 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **Procedure**
 
+1. Type the program in Quartus software.
+ 2. Compile and run the program.
+ 3. Generate the RTL schematic and save the logic diagram.
+ 4. Create nodes for inputs and outputs to generate the timing diagram.
+ 5. For different input combinations generate the timing diagram.
 
 **PROGRAM**
 
@@ -54,6 +59,8 @@ endmodule
 
 **TIMING DIAGRAM FOR IP COUNTER**
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/776cc244-5bcf-4b23-a1b8-465f3e9d08f8" />
+**TRUTH TABLE**
+![Uploading image.png…]()
 
 
 **RESULTS**
